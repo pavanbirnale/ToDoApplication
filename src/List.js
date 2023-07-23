@@ -1,10 +1,6 @@
 import React from 'react'
 
 const List = (props) => {
-
-    const deleteItem=()=>{
-        console.log('deleted');
-    }
   return (
     <>
        <div className="list-style">

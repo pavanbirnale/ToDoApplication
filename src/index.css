@@ -44,3 +44,8 @@ button{
     flex-direction: row;
     margin-top: 1.2rem;
 }
+
+
+.checkbox:checked:before{
+    background-color:green;
+}
